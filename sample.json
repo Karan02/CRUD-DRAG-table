@@ -1,0 +1,50 @@
+[
+       {
+         idx: 0,
+         name: 'My father did not even bother to answer me.',
+         modu:0,
+       },
+       {
+           idx: 1,
+           name: 'There is no play with fire.',
+           modu:0
+       },
+       {
+           idx: 2,
+           name: 'Stop talking and open your book.',
+           modu:0
+       },{
+           idx: 3,
+           name: 'You always want to play games or get attention from me while I’m studying or busy at work.',
+           modu:0
+       },
+       {
+           idx: 4,
+           name: 'I usually eat popcorns for a snack before my dinner.',
+           modu:0
+       },
+       {
+           idx: 5,
+           name: 'When I go to a cyclist these days, the rider is always busy, I surely think it will be like this today.',
+           modu:0
+       },
+       {
+           idx: 6,
+           name: 'When I go to a cyclist these days, the rider is always busy, I surely think it will be like this today.',
+           modu:0
+       },
+       {
+           idx: 7,
+           name: 'She’s been this city since yesterday.',
+           modu:0
+       },
+       {
+           idx: 8,
+           name: 'Do you believe my father now?',
+           modu:0
+       },{
+           idx: 9,
+           name: 'You undoubtedly should read this book to get results in the fastest way possible.',
+           modu:0
+       }
+]; 
